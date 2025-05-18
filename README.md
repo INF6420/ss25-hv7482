@@ -27,7 +27,7 @@ Main Content: About us page is going to have BRAND LOGO or BRAND IMAGE along wit
 
 Footer: Will Include social media presence such as FACEBOOK, TWITTER, INSTAGRAM, LINKEDIN
 
-![Wireframes of contact page](Wireframes\Contact.jpg)
+![Wireframes of contact page](Wireframes/Contact.jpg)
 
 Header: LOGO on the Left and SERVICES, HOME PAGE, ABOUT US and CONTACT on the right side.
 
