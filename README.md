@@ -33,7 +33,7 @@ Header: LOGO on the Left and SERVICES, HOME PAGE, ABOUT US and CONTACT on the ri
 
 Navigation Menu: Will include page links for example; SERVICES, HOME PAGE, ABOUT US, CONTACT
 
-Main Content: Cntact page will have all the details on how to contact for instance GET IN TOUCH with us via PHONE, EMAIL or CHAT
+Main Content: Contact page will have all the details on how to contact for instance GET IN TOUCH with us via PHONE, EMAIL or CHAT
 
 Footer: Will Include social media presence such as FACEBOOK, TWITTER, INSTAGRAM, LINKEDIN
 
